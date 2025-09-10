@@ -323,3 +323,4 @@ public class PacMan extends JPanel implements ActionListener, KeyListener {
         }
     }
 }
+//end of code
